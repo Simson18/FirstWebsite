@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+
+header{
+    padding-top: 1px;
+    padding-bottom: 50px;
+    background-color: darkslategray;
+    text-align: center;
+}
+
+header h1{
+    color: whitesmoke;
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    font-weight: 1000;
+}
+
+header h2{
+    color: #51c5b3;
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+    margin-top: -68px;
+}
+
+header img{
+    border-radius: 30px;
+    border: 10px solid whitesmoke;
+}
+
